@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://gimtic.github.io/sitemap/sitemap.txt
